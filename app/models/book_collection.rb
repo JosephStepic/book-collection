@@ -1,2 +1,0 @@
-class BookCollection < ApplicationRecord
-end
